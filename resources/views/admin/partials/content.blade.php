@@ -244,7 +244,7 @@
                 <div class="user-block block text-center">
                     <div class="avatar">
                         <img
-                            src="img/avatar-1.jpg"
+                            src="{{asset('admincss/img/avatar-1.jpg')}}"
                             alt="..."
                             class="img-fluid"
                         />
@@ -277,7 +277,7 @@
                 <div class="user-block block text-center">
                     <div class="avatar">
                         <img
-                            src="img/avatar-4.jpg"
+                            src="admincss/img/avatar-4.jpg"
                             alt="..."
                             class="img-fluid"
                         />
@@ -310,7 +310,7 @@
                 <div class="user-block block text-center">
                     <div class="avatar">
                         <img
-                            src="img/avatar-6.jpg"
+                            src="admincss/img/avatar-6.jpg"
                             alt="..."
                             class="img-fluid"
                         />
@@ -346,7 +346,7 @@
                     <div class="order">4th</div>
                     <div class="avatar">
                         <img
-                            src="img/avatar-1.jpg"
+                            src="admincss/img/avatar-1.jpg"
                             alt="..."
                             class="img-fluid"
                         />
@@ -388,7 +388,7 @@
                     <div class="order">5th</div>
                     <div class="avatar">
                         <img
-                            src="img/avatar-2.jpg"
+                            src="admincss/img/avatar-2.jpg"
                             alt="..."
                             class="img-fluid"
                         />
@@ -430,7 +430,7 @@
                     <div class="order">6th</div>
                     <div class="avatar">
                         <img
-                            src="img/avatar-6.jpg"
+                            src="admincss/img/avatar-6.jpg"
                             alt="..."
                             class="img-fluid"
                         />
@@ -691,7 +691,7 @@
                         >
                             <div class="profile">
                                 <img
-                                    src="img/avatar-3.jpg"
+                                    src="admincss/img/avatar-3.jpg"
                                     alt="..."
                                     class="img-fluid"
                                 />
@@ -715,7 +715,7 @@
                         >
                             <div class="profile">
                                 <img
-                                    src="img/avatar-2.jpg"
+                                    src="admincss/img/avatar-2.jpg"
                                     alt="..."
                                     class="img-fluid"
                                 />
@@ -737,7 +737,7 @@
                         >
                             <div class="profile">
                                 <img
-                                    src="img/avatar-1.jpg"
+                                    src="admincss/img/avatar-1.jpg"
                                     alt="..."
                                     class="img-fluid"
                                 />
@@ -759,7 +759,7 @@
                         >
                             <div class="profile">
                                 <img
-                                    src="img/avatar-5.jpg"
+                                    src="admincss/img/avatar-5.jpg"
                                     alt="..."
                                     class="img-fluid"
                                 />
@@ -783,7 +783,7 @@
                         >
                             <div class="profile">
                                 <img
-                                    src="img/avatar-1.jpg"
+                                    src="admincss/img/avatar-1.jpg"
                                     alt="..."
                                     class="img-fluid"
                                 />

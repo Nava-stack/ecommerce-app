@@ -532,9 +532,15 @@
                 </div>
                 <!-- Log out               -->
                 <div class="list-inline-item logout">
-                    <a id="logout" href="login.html" class="nav-link"
-                        >Logout <i class="icon-logout"></i
-                    ></a>
+                    <form method="POST" action="{{ route('logout') }}">
+                        @csrf
+
+                        <x-responsive-nav-link :href="route('logout')"
+                                onclick="event.preventDefault();
+                                            this.closest('form').submit();">
+                            {{ __('Log Out') }}
+                        </x-responsive-nav-link>
+                    </form>
                 </div>
             </div>
         </div>
